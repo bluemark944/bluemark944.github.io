@@ -235,6 +235,8 @@ footer {
 	text-align:center; 
 	background-color:#ccc; 
 	color:#2D2D2D; 
+	font-size:15px; 
+	line-height:50px; 
 }
 
 @media screen and (min-width:500px) {
