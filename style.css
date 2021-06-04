@@ -229,6 +229,14 @@ del {
     margin-right:17.5px; 
 }
 
+footer {
+	height:50px; 
+	width:100%;
+	text-align:center; 
+	background-color:#ccc; 
+	color:#2D2D2D; 
+}
+
 @media screen and (min-width:500px) {
     header {
         padding-top:50px; 
@@ -253,7 +261,7 @@ del {
     .icon_cnt {
         text-align:center; 
     }
-    ..clients_comments {
+    ..clients_comments h2 {
     	text-align:center; 
    }
 }
