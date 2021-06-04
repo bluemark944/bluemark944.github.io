@@ -68,7 +68,7 @@ header .logo_cnt #logo {
 }
 
 
-.about_us , .benefits_cnt {
+.about_us , .benefits_cnt , .prices_cnt{
     width:100%;
     padding-top:30px; 
     padding-bottom:30px; 
@@ -93,7 +93,7 @@ header .logo_cnt #logo {
     margin-right:auto; 
 }
 
-.benefits_cnt {
+.benefits_cnt , {
     max-width:950px; 
     padding:30px 20px 30px 20px; 
     margin-left:auto; 
@@ -103,6 +103,32 @@ header .logo_cnt #logo {
     color:#35354D; 
 }
 
+.prices_cnt {
+	color:#FFF; 
+	background-color:#cc9900;
+}
+
+.prices_cnt table {
+	border:0.4px solid #FFF;  
+	color:#FFF; 
+	background :#2D2D2D; 
+}
+
+table  {
+	width:95%;
+	border-radius:30px; 
+	margin-left:auto; 
+    margin-right:auto; 
+}
+
+table th,  td {
+	height:50px; 
+	text-align:center; 
+}
+
+del {
+	color:#ccc; 
+}
 .benefits_cnt .single_benefit {
 	width:290px; 
 	background:#FFF; 
@@ -118,6 +144,20 @@ header .logo_cnt #logo {
     flex-wrap:nowrap; 
 }
 
+
+.single_price {
+	width:290px;  
+	margin-left:auto; 
+    margin-right:auto; 
+	padding-top:0px; 
+    padding-bottom:0px; 
+    margin-top:50px; 
+}
+
+.single_price h3 {
+	font-size:30px; 
+	margin-bottom:30px; 
+}
 .benefits_cnt .single_benefit .img_cnt {
 	height:100%;
 	width:80px; 
