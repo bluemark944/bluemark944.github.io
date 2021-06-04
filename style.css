@@ -186,7 +186,23 @@ del {
 }
 
 
+.call_icon {
+    background-color:#62D200;
+    width:65px; 
+    height:65px; 
+    border-radius:50%;
+    position:fixed; 
+    left:10px; 
+    bottom:10px; 
+}
 
+.call_icon .fa-whatsapp  {
+    font-size:30px; 
+    line-height:65px; 
+    color:#fff; 
+    font-weight:bolder; 
+    margin-right:17.5px; 
+}
 
 @media screen and (min-width:500px) {
 	header {
