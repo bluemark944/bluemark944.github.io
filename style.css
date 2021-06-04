@@ -107,8 +107,8 @@ header .logo_cnt #logo {
 }
 
 .prices_cnt {
-	color:#FFF; 
-	background-color:#cc9900;
+	color:#2D2D2D; 
+	background-color:#FFF;
 	padding-bottom:50px; 
 	display :flex; 
 	flex-wrap:wrap; 
