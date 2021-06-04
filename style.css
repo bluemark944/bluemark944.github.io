@@ -1,0 +1,103 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box; 
+    direction:rtl; 
+    font-family:'dubai'; 
+}
+@font-face {
+    font-family:'hanimation'; 
+    src:url('fonts/hanimation-regular.ttf');
+}
+@font-face {
+    font-family:'Dubai'; 
+    src:url('fonts/dubai.ttf');
+}
+
+
+
+
+a {
+    text-decoration:none; 
+}
+header {
+    width:100%;
+    height:auto;
+    max-width:1200px; 
+    padding-bottom:20px;
+    /*padding-top:20px;*/
+}
+
+header  .logo_cnt {
+    width:100%;
+    height:15em;
+    margin-left:auto ;
+    margin-right:auto ;
+}
+
+header .logo_cnt #logo {
+    width:100%;
+    height:100%;
+}
+
+.top_article {
+    width:100%;
+    color:#FFF; 
+    margin-left:auto ;
+    margin-right:auto ;
+    margin-top:30px; 
+    font-size:15px; 
+    font-family:'dubai'; 
+    color :#006699;
+}
+.rounded_blue_icon {
+    font-size:28px; 
+    margin-bottom:30px; 
+    padding-right:20px; 
+    padding-left:20px;
+    color:#FFF; 
+    border-radius:20px; 
+    background :#006699;
+}
+.top_article p {
+    max-width:320px;  
+    margin-left:auto ;
+    margin-right:auto ;
+}
+
+
+.about_us {
+    width:100%;
+    padding-top:30px; 
+    padding-bottom:30px; 
+    margin-top:50px; 
+    
+    background :#006699;
+    color:#FFF; 
+}
+
+.about_us .rounded_white_icon {
+    font-size:28px; 
+    margin-bottom:30px; 
+    padding-right:20px; 
+    padding-left:20px; 
+    color:#006699; 
+    border-radius:20px; 
+    background :#FFF;
+}
+
+.about_us p {
+    max-width:320px; 
+    margin-left:auto; 
+    margin-right:auto; 
+}
+
+.snap_ads_benefits {
+    width:100%;
+    max-width:320px; 
+    margin-top:50px; 
+    padding:30px 20px 30px 20px; 
+}
+
+
+
