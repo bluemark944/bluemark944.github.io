@@ -72,9 +72,9 @@ header .logo_cnt #logo {
     width:100%;
     padding-top:30px; 
     padding-bottom:30px; 
-    margin-top:50px; 
-    color :#006699;
-    background-color:#FFF; 
+    margin-top:0;
+    color :#FFF ;
+    background-color:#006699;
 }
 
 .rounded_blue_icon {
@@ -102,12 +102,14 @@ header .logo_cnt #logo {
     margin-top:0;
     display:flex; 
     flex-wrap:wrap; 
+    background:#FFF; 
     color:#35354D; 
 }
 
 .prices_cnt {
 	color:#FFF; 
 	background-color:#cc9900;
+	padding-bottom:50px; 
 	display :flex; 
 	flex-wrap:wrap; 
 }
@@ -199,8 +201,8 @@ del {
 		text-align:center; 
 		max-width:720px; 
 	}
-	.why_snap {
-		
+	.icon_cnt {
+		text-align:center; 
 	}
 }
 
