@@ -217,9 +217,14 @@ del {
         border-radius:50%;
     }
     
-     .top_article p, .about_us .about_paragraph {
+     .top_article p,  {
         text-align:center; 
         max-width:720px; 
+    }
+    
+    .about_us .about_paragraph {
+    	text-align:center; 
+    	max-width:520px; 
     }
     .icon_cnt {
         text-align:center; 
