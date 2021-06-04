@@ -29,7 +29,7 @@ header {
 
 header  .logo_cnt {
     width:100%;
-    max-width:450px; 
+    max-width:600px; 
     height:15em;
     margin-left:auto ;
     margin-right:auto ;
@@ -192,6 +192,9 @@ del {
 	header {
 		padding-top:50px; 
 		padding-bottom:50px; 
+	}
+	.logo_cnt {
+		height:30em; 
 	}
 	.logo_cnt img{
 		border-radius:50%;
