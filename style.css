@@ -107,39 +107,39 @@ header .logo_cnt #logo {
 }
 
 .prices_cnt {
-	color:#2D2D2D; 
-	background-color:#FFF;
-	padding-bottom:50px; 
-	display :flex; 
-	flex-wrap:wrap; 
+    background-color:#FFF; 
+    color:#2D2D2D;
+    padding-bottom:50px; 
+    display :flex; 
+    flex-wrap:wrap; 
 }
 
 .prices_cnt table {
-	border:0.4px solid #FFF;  
-	baclground-color:#2D2D2D; 
-	color:#FFF; 
+    border:0.4px solid #FFF;  
+    color:#FFF; 
+    background :#2D2D2D; 
 }
 
 table  {
-	width:95%;
-	border-radius:30px; 
-	margin-left:auto; 
+    width:95%;
+    border-radius:30px; 
+    margin-left:auto; 
     margin-right:auto; 
 }
 
 table th,  td {
-	height:50px; 
-	text-align:center; 
+    height:50px; 
+    text-align:center; 
 }
 
 del {
-	color:#ccc; 
+    color:#ccc; 
 }
 .benefits_cnt .single_benefit {
-	width:290px; 
-	background:#FFF; 
-	box-shadow:1px 1px 1px #ccc;
-	margin-left:auto; 
+    width:290px; 
+    background:#FFF; 
+    box-shadow:1px 1px 1px #ccc;
+    margin-left:auto; 
     margin-right:auto; 
     padding-top:10px; 
     padding-bottom:20px; 
@@ -152,37 +152,37 @@ del {
 
 
 .single_price {
-	width:330px;  
-	margin-left:auto; 
+    width:330px;  
+    margin-left:auto; 
     margin-right:auto; 
-	padding-top:0px; 
+    padding-top:0px; 
     padding-bottom:0px; 
     margin-top:50px; 
 }
 
 .single_price h3 {
-	font-size:30px; 
-	margin-bottom:30px; 
+    font-size:30px; 
+    margin-bottom:30px; 
 }
 .benefits_cnt .single_benefit .img_cnt {
-	height:100%;
-	width:80px; 
-	margin-left:5px; 
+    height:100%;
+    width:80px; 
+    margin-left:5px; 
 }
 .benefits_cnt .single_benefit .img_cnt img {
-	width:100%;
-	height:100%;
-	float:right; 
+    width:100%;
+    height:100%;
+    float:right; 
 }
 
 .benefits_cnt p{
-	font-size:14px; 
-	line-height:18px; 
+    font-size:14px; 
+    line-height:18px; 
 }
 
 .benefits_cnt h4 {
-	line-height:20px; 
-	margin-bottom:10px; 
+    line-height:20px; 
+    margin-bottom:10px; 
 }
 
 
@@ -197,7 +197,7 @@ del {
 }
 
 .call_icon .fa-whatsapp  {
-    font-size:30px; 
+    font-size:35px;
     line-height:65px; 
     color:#fff; 
     font-weight:bolder; 
@@ -205,23 +205,23 @@ del {
 }
 
 @media screen and (min-width:500px) {
-	header {
-		padding-top:50px; 
-		padding-bottom:50px; 
-	}
-	.logo_cnt {
-		height:30em; 
-	}
-	.logo_cnt img{
-		border-radius:50%;
-	}
-	
-	 .top_article p, .about_us .about_paragraph {
-		text-align:center; 
-		max-width:720px; 
-	}
-	.icon_cnt {
-		text-align:center; 
-	}
+    header {
+        padding-top:50px; 
+        padding-bottom:50px; 
+    }
+    .logo_cnt {
+        height:30em; 
+    }
+    .logo_cnt img{
+        border-radius:50%;
+    }
+    
+     .top_article p, .about_us .about_paragraph {
+        text-align:center; 
+        max-width:720px; 
+    }
+    .icon_cnt {
+        text-align:center; 
+    }
 }
 
