@@ -191,7 +191,7 @@ del {
 
 .clients_comments {
     width:100%;
-    margin-bottom:30px; 
+    margin-bottom:0px; 
     background-color:#006699;
     padding-bottom:50px;
 }
@@ -259,6 +259,7 @@ footer {
     color:#2D2D2D; 
     font-size:15px; 
     line-height:50px; 
+    margin-top:0;
 }
 
 @media screen and (min-width:500px) {
