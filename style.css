@@ -166,6 +166,7 @@ del {
     font-size:30px; 
     margin-bottom:30px; 
     color:#006699;
+    text-align:center; 
 }
 .benefits_cnt .single_benefit .img_cnt {
     height:100%;
